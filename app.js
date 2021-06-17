@@ -16,3 +16,5 @@ function changeImgGreen() {
         image.src = "images/green.png";
     }
 }
+
+//Traffic Light
